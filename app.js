@@ -38,7 +38,7 @@ while (x != "beetle" && x != "golf" && x != "jetta" && x != "passat" && x != "bu
   x = prompt("Wrong name plz try agin beetle, golf, jetta, bassat, bus")
 }
 if (x == "beetle") {
-  var y = prompt("how many time you prefare to see beetle pic ?")
+  var y = prompt("how many time you prefer to see beetle pic ?")
 
   for (var x = 0; x < y; x++) {
     document.write("<div>" +
@@ -48,7 +48,7 @@ if (x == "beetle") {
 
 }
 else if (x == "golf") {
-  var y = prompt("how many time you prefare to see golf pic ?")
+  var y = prompt("how many time you prefer to see golf pic ?")
   for (var x = 0; x < y; x++) {
     document.write("<div>" +
       "<h3>" + "Golf mk1 1990" + "</h3>" + "<img src='https://images.honestjohn.co.uk/imagecache/file/crop/1000x660/media/12194366/Volkswagen~Golf~Cabriolet~Mk1~(1).jpg' alt='golf mk1 1990'>" +
@@ -57,7 +57,7 @@ else if (x == "golf") {
 
 }
 else if (x == "jetta") {
-  var y = prompt("how many time you prefare to see jetta pic ?")
+  var y = prompt("how many time you prefer to see jetta pic ?")
   for (var x = 0; x < y; x++) {
     document.write("<div>" +
       "<h3>" + "Jetta 1992" + "</h3>" + " <img src='http://img.autoabc.lv/Volkswagen-Jetta/Volkswagen-Jetta_1986_Sedans_15121082220.jpg' alt='Jetta 1992'>" +
@@ -65,7 +65,7 @@ else if (x == "jetta") {
   }
 }
 else if (x == "passat") {
-  var y = prompt("how many time you prefare to see passat pic ?")
+  var y = prompt("how many time you prefer to see passat pic ?")
   for (var x = 0; x < y; x++) {
     document.write("<div>" +
       "<h3>" + " Passat 1980" + "</h3>" + "<img src='https://i.pinimg.com/originals/73/ff/bf/73ffbf1e8132b6e00cf1839758648525.jpg' alt='Passat 1980'>" +
@@ -73,7 +73,7 @@ else if (x == "passat") {
   }
 }
 else if (x == "bus") {
-  var y = prompt("how many time you prefare to see bus pic ?")
+  var y = prompt("how many time you prefer to see bus pic ?")
   for (var x = 0; x < y; x++) {
     document.write("<div>" +
       "<h3>" + "Bus 1970" + "</h3>" + "<img src='https://i.pinimg.com/originals/cc/da/4a/ccda4aaa9aa5d4c0f0ba8161e6909e25.jpg' alt='Bus 1970'>" +

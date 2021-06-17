@@ -1,35 +1,35 @@
-// /*
-// lets start with V.W webbage
+/*
+lets start with V.W webbage
 
-//  */
-// var name = "essam";
-// console . log (name)
-// console . log ('name')
+ */
+var name = "essam";
+console . log (name)
+console . log ('name')
 
-// var x=5
-// var y=12
-// var sum = x+y
+var x=5
+var y=12
+var sum = x+y
 
-// console .log(sum)
+console .log(sum)
 
 
-// alert("Welcome To A V.W Web")
+alert("Welcome To A V.W Web")
 
-//  var car = prompt("Do you have any type of V.W ?(yes or no) ")
+ var car = prompt("Do you have any type of V.W ?(yes or no) ")
 
-//  if( car == "yes"){
-//    document . write("<p>"+"You are with our team"+"</p>")
-//  }
+ if( car == "yes"){
+   document . write("<p>"+"You are with our team"+"</p>")
+ }
 
-// else{
-//   document . write ("<p>"+"We Hope to be one of V.W Owner"+"</p>")
-// }
+else{
+  document . write ("<p>"+"We Hope to be one of V.W Owner"+"</p>")
+}
 
-// if (confirm("Do you love v.w ?")) {
-//   document . write("<p>"+"And we love you "+"</p>")
-// } else {
-//   document . write("<p>"+"After you visit our web you will love it"+"</p>")
-// }
+if (confirm("Do you love v.w ?")) {
+  document . write("<p>"+"And we love you "+"</p>")
+} else {
+  document . write("<p>"+"After you visit our web you will love it"+"</p>")
+}
 
 
 var x = prompt("which type of V.W you prefer from this ( beetle, golf, jetta, bassat, bus?")

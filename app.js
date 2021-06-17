@@ -30,3 +30,4 @@ if (confirm("Do you love v.w ?")) {
 } else {
   document . write("<p>"+"after you visit our web you will"+"</p>")
 }
+
